@@ -182,8 +182,7 @@ function App() {
 
       <section className="control-card">
         <div className="section-heading">
-          <div><span className="section-number">01</span><h2>탐색 예제 선택</h2></div>
-          <span className="helper-text">문자열은 모두 10자 이내로 준비되어 있습니다.</span>
+          <div><span className="section-number">01</span><h2>문자열 탐색 예제 선택</h2></div>
         </div>
         <div className="example-list">
           {EXAMPLES.map((item, index) => (
