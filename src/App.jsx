@@ -174,7 +174,7 @@ function App() {
       <section className="hero">
         <div className="hero-copy">
           <div className="eyebrow hero-eyebrow">문자열 탐색 알고리즘 내부동작 시각화 과제</div>
-          <h1>단순 비교 vs Boyer-Moore 알고리즘<br /><span>알고리즘의 차이를 직접 확인하세요.</span></h1>
+          <h1>문자열 단순 비교 vs Boyer-Moore 알고리즘<br /><span>예제별 알고리즘 차이 확인</span></h1>
           <p>단순 비교와 Boyer-Moore가 패턴을 찾는 과정을 한 단계씩 비교하고, 문자 비교 횟수와 이동 원리를 확인할 수 있습니다.</p>
         </div>
         <div className="hero-icon"><GitCompareArrows size={42} strokeWidth={1.5} /></div>
